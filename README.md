@@ -188,9 +188,6 @@ gunicorn --worker-class eventlet -w 1 --bind 0.0.0.0:5000 app:app
 4. Push para a branch (`git push origin feature/nova-funcionalidade`)
 5. Abra um Pull Request
 
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## 🔧 Solução de Problemas
 
