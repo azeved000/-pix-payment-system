@@ -1,0 +1,38 @@
+# Ambiente virtual
+.venv/
+venv/
+env/
+.env
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Instâncias SQLite
+*.db
+*.sqlite
+*.sqlite3
+
+# Arquivos de imagem gerados (QR codes)
+static/img/qr_codes/
+*.png
+
+# Logs
+*.log
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dependências
+pip-log.txt
+pip-delete-this-directory.txt
+.coverage
+.pytest_cache/
