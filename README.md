@@ -211,14 +211,11 @@ pip install --upgrade flask
 
 ## 📊 Status do Projeto
 
-- ✅ **MVP Completo**: Funcionalidades básicas implementadas
+- ✅ Funcionalidades básicas implementadas
 - ✅ **WebSocket**: Notificações em tempo real funcionando
 - ✅ **API REST**: Endpoints principais criados
-- 🔄 **Em desenvolvimento**: Melhorias na interface
-- 📋 **Próximos passos**: 
-  - Autenticação de usuários
-  - Histórico de pagamentos
-  - Dashboard administrativo
+
+
 
 ---
 
