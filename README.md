@@ -27,8 +27,8 @@ Um sistema completo de pagamentos PIX desenvolvido com Flask, SQLAlchemy e WebSo
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/pix-payment-system.git
-cd pix-payment-system
+git clone https://github.com/azeved000/-pix-payment-system.git
+cd -pix-payment-system
 ```
 
 ### 2. Crie um ambiente virtual
